@@ -17,8 +17,8 @@ export default defineConfig( {
         globPatterns: ["**/*.{js,css,html,png,svg,ico}"]
       },
       manifest: {
-        name: 'My React App',
-        short_name: 'ReactApp',
+        name: 'air1app1',
+        short_name: 'air1app1',
         description: 'My downloadable React app',
         theme_color: "#ffffff",
         background_color: "#ffffff",
